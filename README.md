@@ -1,7 +1,7 @@
 ART-394-01: The Art of Game Design
 March 19th, 2025
 
-Text-Based game created in Twine, Pixel GIF's created in Piskel. 
+Text-Based game created in Twine, Pixel GIF's created in Piskel, embedded within the game and included in a .zip file.
 Co Authors: Lucy Hinck & Cali Engel-Dempsey
 
 To play the game:
